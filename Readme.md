@@ -1,6 +1,8 @@
 # DocSim - Document Similarity
 by Cathal Garvey, Copyright 2016, Released under the AGPLv3 or later.
 
+[![Godoc Badge](https://godoc.org/github.com/cathalgarvey/comparator?status.svg)](https://godoc.org/github.com/cathalgarvey/comparator)
+
 ### About
 This is a simple, amateur toolkit for estimating the similarity of bodies of text.
 It provides an interface for comparators of this kind, and provides implementations
