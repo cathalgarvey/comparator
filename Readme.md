@@ -1,4 +1,4 @@
-# DocSim - Document Similarity
+# Comparator - Quick Document Similarity
 by Cathal Garvey, Copyright 2016, Released under the AGPLv3 or later.
 
 [![Godoc Badge](https://godoc.org/github.com/cathalgarvey/comparator?status.svg)](https://godoc.org/github.com/cathalgarvey/comparator)
